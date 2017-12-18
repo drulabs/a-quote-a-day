@@ -1,0 +1,2 @@
+Github repository link: https://github.com/drulabs/a-quote-a-day.git
+Heroku deployment url: https://a-quote-a-day-kkd.herokuapp.com/
